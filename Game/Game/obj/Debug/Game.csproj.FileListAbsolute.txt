@@ -1,0 +1,15 @@
+D:\vs studio project\Game\Game\bin\Debug\Game.exe.config
+D:\vs studio project\Game\Game\bin\Debug\Game.exe
+D:\vs studio project\Game\Game\bin\Debug\Game.pdb
+D:\vs studio project\Game\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+D:\vs studio project\Game\Game\obj\Debug\Game.Form1.resources
+D:\vs studio project\Game\Game\obj\Debug\Game.Properties.Resources.resources
+D:\vs studio project\Game\Game\obj\Debug\Game.csproj.GenerateResource.cache
+D:\vs studio project\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+D:\vs studio project\Game\Game\obj\Debug\Game.exe
+D:\vs studio project\Game\Game\obj\Debug\Game.pdb
+D:\vs studio project\Game\Game\bin\Debug\Interop.WMPLib.dll
+D:\vs studio project\Game\Game\bin\Debug\AxInterop.WMPLib.dll
+D:\vs studio project\Game\Game\obj\Debug\Interop.WMPLib.dll
+D:\vs studio project\Game\Game\obj\Debug\AxInterop.WMPLib.dll
+D:\vs studio project\Game\Game\obj\Debug\Game.csproj.ResolveComReference.cache
